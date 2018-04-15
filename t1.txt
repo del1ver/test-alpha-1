@@ -1,0 +1,2 @@
+yyy ldn1san01 /vol/CIFS_RESTORE_DUMP/ 171008 0
+yyy ldn1san02 /vol/CIFS_RESTORE_DUMP/ 7243 157
